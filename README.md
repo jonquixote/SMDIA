@@ -1,4 +1,6 @@
-# The **Product Constitution** is the conflict-resolution authority: if documents disagree, follow it and record the resolution in `DECISIONS.md`.
+# README
+
+The **Product Constitution** is the conflict-resolution authority: if documents disagree, follow it and record the resolution in `DECISIONS.md`.
 
 ## Read in this order
 
